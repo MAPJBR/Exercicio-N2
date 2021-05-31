@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtividadePOO", "AtividadePOO.vcxproj", "{510F4883-E0F8-4B9D-823C-1364141F784B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Debug|x64.ActiveCfg = Debug|x64
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Debug|x64.Build.0 = Debug|x64
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Debug|x86.ActiveCfg = Debug|Win32
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Debug|x86.Build.0 = Debug|Win32
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Release|x64.ActiveCfg = Release|x64
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Release|x64.Build.0 = Release|x64
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Release|x86.ActiveCfg = Release|Win32
+		{510F4883-E0F8-4B9D-823C-1364141F784B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447D6F04-95DB-4A6F-9BD7-0D6F1EA6BA11}
+	EndGlobalSection
+EndGlobal
